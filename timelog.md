@@ -14,11 +14,14 @@
 
 ## Week 1
 
---
+### 21 Sep 2021
+
+* *8 hours* Go over proposed projects and made decision
 
 ## Week 2
 
 ### 28 Sep 2021
 
 * *3 hours* Read the project guidance notes and other information given on moodle
-* *1 hour* Set up Github repository and essential documents and information added(timelog, status_report)
+* *1 hour* Set up Github level 4 dissertation & record & source-code repository and essential documents and information added(timelog, status_report)
+* *1 hour* Create issues & milestones related to each level 4 repo
