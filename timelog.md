@@ -20,8 +20,12 @@
 
 ## Week 2
 
-### 28 Sep 2021
+### 27 Sep 2021
 
 * *3 hours* Read the project guidance notes and other information given on moodle
 * *1 hour* Set up Github level 4 dissertation & record & source-code repository and essential documents and information added(timelog, status_report)
 * *1 hour* Create issues & milestones related to each level 4 repo
+
+### 28 Sep 2021
+
+* *1 hour* Look through the basic concepts of how java programes converted into bytecodes (what's the role of JVM in this process) and hello world example of how to analyze the bytecodes
