@@ -2,3 +2,7 @@
 	path = L4-Dissertation-Repo
 	url = https://github.com/2359451d/L4-Dissertation-Repo/
 	branch = master
+[submodule "L4-Source-Repo"]
+	path = L4-Source-Repo
+	url = https://github.com/2359451d/L4-Source-Repo/
+	branch = master
