@@ -29,3 +29,4 @@
 ### 28 Sep 2021
 
 * *1 hour* Look through the basic concepts of how java programes converted into bytecodes (what's the role of JVM in this process) and hello world example of how to analyze the bytecodes
+* *1 hour* Fix submodule indexing problem, removed the submodules of other repos as it always related to the attached HEAD
