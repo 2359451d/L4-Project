@@ -1,12 +1,30 @@
-# Desc
+# Description
 
-repo for recording progress on level 4 project, files contain:
+repo for recording progress on level 4 project (**Pascal to JVM Compiler**), files contain:
 
 * `timelog.md`
   * daily(at least) updated progress record
 * `status_report_template.md`
   * status report to be submitted at the end of week 13
   * see [issue](https://github.com/2359451d/L4-Project-Record-Repo/issues/1)
+
+# Weekly Meeting Report & Minutes
+
+Report files would be saved on both **hackmd** and **github** (in `weekly_reports` & `meeting_minutes`)
+
+weekly meeting report might cover the following sections:
+
+* previous week recap (if applicable)
+* progress of this week
+* questions if any
+* blockers if any
+* plan for next week
+
+---
+
+:pushpin: jumping to view on hackmd here
+
+* [Week 2 Meeting Report](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ryDzzuxEF)
 
 # Soft Links
 
