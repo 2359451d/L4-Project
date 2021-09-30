@@ -1,6 +1,6 @@
 # Description
 
-repo for recording progress on level 4 project (**Pascal to JVM Compiler**), files contain:
+repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler**), files contain:
 
 * `timelog.md`
   * daily(at least) updated progress record
@@ -19,12 +19,6 @@ weekly meeting report might cover the following sections:
 * questions if any
 * blockers if any
 * plan for next week
-
----
-
-:pushpin: jumping to view on hackmd here
-
-* [Week 2 Meeting Report](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ryDzzuxEF)
 
 # Soft Links
 
