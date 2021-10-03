@@ -35,3 +35,7 @@
 ### 30 Sep 2021
 
 * *1 hour* Revise PL course
+
+### 3 Oct 2021
+
+* *3 hour* Revise PL course
