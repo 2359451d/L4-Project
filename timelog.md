@@ -30,7 +30,7 @@
 
 * *1 hour* Look through the basic concepts of how java programes converted into bytecodes (what's the role of JVM in this process) and hello world example of how to analyze the bytecodes
 * *1 hour* Fix submodule indexing problem, removed the submodules of other repos as it always related to the attached HEAD
-* *2 hour* Write the questions for meeting later on, regarding the general questions and project-related question (starting point etc.)
+* *2 hours* Write the questions for meeting later on, regarding the general questions and project-related question (starting point etc.)
 
 ### 30 Sep 2021
 
@@ -38,4 +38,10 @@
 
 ### 3 Oct 2021
 
-* *3 hour* Revise PL course
+* *3 hours* Revise PL course
+
+### 4 Oct 2021
+
+* *3 hours* Revise PL course & prepare the weekly report(quetions, progress) for the supervisor meeting
+* *0.5 hour* Hold the 1st meeting with the supervisor
+* *0.5 hour* Organise the 1st meeting minutes
