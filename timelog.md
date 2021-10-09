@@ -50,4 +50,7 @@
 
 ### 9 Oct 2021
 
-* *1 hour* Revise PL course & other concepts
+* *5 hour* Revise PL course & other basic concepts (DFA, NFA, CFG)
+
+### 10 Oct 2021
+
