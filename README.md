@@ -19,14 +19,16 @@ weekly meeting report might cover the following sections:
 * questions if any
 * blockers if any
 * plan for next week
+* also meeting minutes for this week
 
 ## Quick Access to Weekly Reports in hackmd
 
-* [week 3](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ryDzzuxEF)
+* [week 3 - 1st meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ryDzzuxEF)
+* [week 4 - 2nd meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/SkEtOv04t)
 
 # Soft Links
 
-quick access to related level 4 project repos (**only setup for this repo as it is hard to coordinate in case the automation submodule updating script not working**, soft links might be removed if too cumbersome)
+quick access to related level 4 project repos (**only setup for this repo as it is hard to coordinate while the automation submodule updating script not working**, soft links might be removed if too cumbersome)
 
 * dissertation
 * source code

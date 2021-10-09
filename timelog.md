@@ -40,8 +40,14 @@
 
 * *3 hours* Revise PL course
 
+## Week 3
+
 ### 4 Oct 2021
 
 * *3 hours* Revise PL course & prepare the weekly report(quetions, progress) for the supervisor meeting
 * *0.5 hour* Hold the 1st meeting with the supervisor
 * *0.5 hour* Organise the 1st meeting minutes
+
+### 9 Oct 2021
+
+* *1 hour* Revise PL course & other concepts

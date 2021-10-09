@@ -33,6 +33,8 @@ time: 12:00 - 12:30
   * depends but I'm familar with JAVA
   * NOTE: consider the bootstraping compiler...might first have a compiler "Pascal to JVM" written in JAVA, then reversely have a compiler "Pascal to JVM" written in Pascal for bootstraping...
     * might be tricky...
+* might be useful to record each problem encounter (how to address) & each decision made (why)
+  * prepared for the dissertation
 
 # Before Next Meeting
 
