@@ -13,7 +13,10 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 2**
 * **Week 3**
 * **Week 4-6**
-  * looking in book *programming language processors in java* and *introduction to Pascal*
+  * looking in the books
+    * *programming language processors in java* and 
+    * *introduction to Pascal*
+  * research about other concepts if discovered along the way
 * **Week 7**
   * syntactic analysis
 * **Week 8**
