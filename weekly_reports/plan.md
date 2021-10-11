@@ -1,9 +1,9 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Project Title: Pascal to JVM compiler
+* Student Name: Yao Du
+* Student ID: 2359451d
+* Supervisor Name: Simon J Gay
 
 Week-by-week plan for the whole project. Update this as you go along.
 
@@ -12,17 +12,22 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 1**
 * **Week 2**
 * **Week 3**
-* **Week 4**
-* **Week 5**
-* **Week 6**
+* **Week 4-6**
+  * looking in book *programming language processors in java* and *introduction to Pascal*
 * **Week 7**
+  * syntactic analysis
 * **Week 8**
-* **Week 9**
-* **Week 10**
+  * contextual analysis
+* **Week 9-10**
+  * code generation for the basic constructs - hopefully
 * **Week 11 [PROJECT WEEK]**
+  * working on status report
 * **Week 12 [PROJECT WEEK]** Status report submitted.
 
 ## Winter break
+
+* might finalise the compilation for complex constructs first if have not done
+* extend the project if have time
 
 ## Spring Semester
 

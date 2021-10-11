@@ -2,7 +2,7 @@
 
 * Project Name: Pascal to JVM compiler
 * Student Name: Yao Du
-* STUDENT_ID: 2359451d
+* Student ID: 2359451d
 * Supervisor Name: Simon J Gay
 
 ## Guidance
