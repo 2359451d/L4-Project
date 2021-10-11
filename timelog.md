@@ -52,5 +52,9 @@
 
 * *5 hour* Revise PL course & other basic concepts (DFA, NFA, CFG)
 
-### 10 Oct 2021
+## Week 4
 
+### 11 Oct 2021
+
+* *0.5 hour* Hold the 2nd meeting with the supervisor
+* *0.5 hour* Organise the 2nd meeting minutes
