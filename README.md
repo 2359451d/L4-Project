@@ -25,6 +25,7 @@ weekly meeting report might cover the following sections:
 
 * [week 3 - 1st meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ryDzzuxEF)
 * [week 4 - 2nd meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/SkEtOv04t)
+* [week 5 - 3rd meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/By7piddBF)
 
 # Soft Links
 

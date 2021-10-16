@@ -58,3 +58,7 @@
 
 * *0.5 hour* Hold the 2nd meeting with the supervisor
 * *0.5 hour* Organise the 2nd meeting minutes
+
+### 17 Oct 2021
+
+* *2 hour* Research through ANTLR
