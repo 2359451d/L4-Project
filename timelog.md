@@ -59,6 +59,9 @@
 * *0.5 hour* Hold the 2nd meeting with the supervisor
 * *0.5 hour* Organise the 2nd meeting minutes
 
+### 16 Oct 2021
+
+* *5 hour* Research through ANTLR, AST design patterns(interpreter, visitor, decorator etc.)
+
 ### 17 Oct 2021
 
-* *2 hour* Research through ANTLR
