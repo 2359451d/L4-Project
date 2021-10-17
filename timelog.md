@@ -65,3 +65,4 @@
 
 ### 17 Oct 2021
 
+* *1 hour* Research through ANTLR and revise Calc grammar and driver class. (think about the possibility of visualisation of the AST i.e. using existing library or something else)
