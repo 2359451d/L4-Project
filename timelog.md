@@ -66,3 +66,13 @@
 ### 17 Oct 2021
 
 * *1 hour* Research through ANTLR and revise Calc grammar and driver class. (think about the possibility of visualisation of the AST i.e. using existing library or something else)
+
+## Week 5
+
+### 18 Oct 2021
+
+* *0.5 hour* Hold the 3rd meeting with the supervisor
+
+### 24 Oct 2021
+
+* *4 hours* Research about ANTLR & read book *The Definitive ANTLR 4 Reference*
