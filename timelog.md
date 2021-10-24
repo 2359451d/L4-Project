@@ -75,4 +75,4 @@
 
 ### 24 Oct 2021
 
-* *4 hours* Research about ANTLR & read book *The Definitive ANTLR 4 Reference*
+* *5 hours* Research about ANTLR & read book *The Definitive ANTLR 4 Reference*
