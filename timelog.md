@@ -76,3 +76,10 @@
 ### 24 Oct 2021
 
 * *5 hours* Research about ANTLR & read book *The Definitive ANTLR 4 Reference*
+
+## Week 6
+
+### 25 Oct 2021
+
+* *0.5 hour* Organise the 3rd meeting minutes
+* *0.5 hour* Hold the 4th meeting with the supervisor
