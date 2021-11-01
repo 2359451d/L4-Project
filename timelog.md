@@ -50,7 +50,7 @@
 
 ### 9 Oct 2021
 
-* *5 hour* Revise PL course & other basic concepts (DFA, NFA, CFG)
+* *5 hours* Revise PL course & other basic concepts (DFA, NFA, CFG)
 
 ## Week 4
 
@@ -61,7 +61,7 @@
 
 ### 16 Oct 2021
 
-* *5 hour* Research through ANTLR, AST design patterns(interpreter, visitor, decorator etc.)
+* *5 hours* Research through ANTLR, AST design patterns(interpreter, visitor, decorator etc.)
 
 ### 17 Oct 2021
 
@@ -83,3 +83,7 @@
 
 * *0.5 hour* Organise the 3rd meeting minutes
 * *0.5 hour* Hold the 4th meeting with the supervisor
+
+### 31 Oct 2021
+
+* *0.5 hour* Organise the 4th meeting minutes
