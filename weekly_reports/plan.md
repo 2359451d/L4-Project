@@ -14,23 +14,29 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 3**
 * **Week 4-6**
   * looking in the books
-    * *programming language processors in java* and 
+    * *programming language processors in java* and
     * *introduction to Pascal*
   * research about other concepts if discovered along the way
-* **Week 7**
-  * syntactic analysis
-* **Week 8**
+* **Week 7-8** [got 1 solo AE remain: should take 3~4 days]
   * contextual analysis
-* **Week 9-10**
+  * **week 7** - might mainly focus on research things
+    * if still got time, might do the implementation
+  * **week 8** - implementation
+    * if got time, move to the code generation
+* **Week 9-10** [got 1 or 2 group AE remain: should take 3~4 days]
   * code generation for the basic constructs - hopefully
 * **Week 11 [PROJECT WEEK]**
-  * working on status report
+  * start working on status report
+    * if still got things remain, continue work on the implementation
 * **Week 12 [PROJECT WEEK]** Status report submitted.
+  * Should almost finalise the status report before Friday 17:00
 
 ## Winter break
 
 * might finalise the compilation for complex constructs first if have not done
 * extend the project if have time
+  * focus on implementation of **other Pascal features** (OO feature etc.)
+  * if got time, might research more about how to make a **command line tool** for usage. Or move to other extension if better ideas found
 
 ## Spring Semester
 

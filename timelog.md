@@ -87,3 +87,16 @@
 ### 31 Oct 2021
 
 * *0.5 hour* Organise the 4th meeting minutes
+
+## Week 7
+
+### 25 Oct 2021
+
+* *0.5 hour* Hold the 5th meeting with the supervisor
+
+### 6 Nov 2021
+
+* *1 hour* Read the book *The Definitive ANTLR 4 Reference*
+
+### 7 Nov 2021
+
