@@ -100,3 +100,4 @@
 
 ### 7 Nov 2021
 
+* *2 hour* Read the book *The Definitive ANTLR 4 Reference*
