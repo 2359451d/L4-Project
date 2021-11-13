@@ -100,4 +100,15 @@
 
 ### 7 Nov 2021
 
-* *2 hour* Read the book *The Definitive ANTLR 4 Reference*
+* *2 hours* Read the book *The Definitive ANTLR 4 Reference*
+* *0.5 hour* Organise the 5th meeting minutes
+
+## Week 8
+
+### 8 Nov 2021
+
+* *0.5 hour* Hold the 6th meeting with the supervisor
+
+### 13 Nov 2021
+
+* *0.5 hour* Organise the 6th meeting minutes

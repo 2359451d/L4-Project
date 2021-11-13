@@ -27,8 +27,9 @@ weekly meeting report might cover the following sections:
 * [week 4 - 2nd meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/SkEtOv04t)
 * [week 5 - 3rd meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/By7piddBF)
 * [week 6 - 4th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/ByvdoGX8Y)
-
-# Soft Links
+* [week 7 - 5th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/H1Hyk8pUF)
+* [week 8 - 6th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/HJG1Hu8wK)
+* [week 9 - 7th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/r1uP6U6PF)
 
 quick access to related level 4 project repos (**only setup for this repo as it is hard to coordinate while the automation submodule updating script not working**, soft links might be removed if too cumbersome)
 

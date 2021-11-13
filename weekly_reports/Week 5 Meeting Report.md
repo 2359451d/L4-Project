@@ -91,8 +91,6 @@ time: 12:00 - 12:30
 
 ## Things Agreed & Acknowledged
 
-5.保留关键字放在lexerrules的前面部分，，，先被解析
-
 1. Consider modifying the structure of comment lexer rules
 
 * do not put it inside the parser rules, best practice: handle to skip channel
