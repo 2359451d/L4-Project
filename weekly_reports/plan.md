@@ -30,13 +30,14 @@ Week-by-week plan for the whole project. Update this as you go along.
     * if still got things remain, continue work on the implementation
 * **Week 12 [PROJECT WEEK]** Status report submitted.
   * Should almost finalise the status report before Friday 17:00
+  * PSI exam - 12/09[09:00am]
 
 ## Winter break
 
 * might finalise the compilation for complex constructs first if have not done
 * extend the project if have time
   * focus on implementation of **other Pascal features** (OO feature etc.)
-  * if got time, might research more about how to make a **command line tool** for usage. Or move to other extension if better ideas found
+  * if got time, might research more about how to make a **command line tool(alternative: alias script)** for usage. Or move to other extension if better ideas found
 
 ## Spring Semester
 

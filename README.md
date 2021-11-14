@@ -8,6 +8,25 @@ repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler*
   * status report to be submitted at the end of week 13
   * see [issue](https://github.com/2359451d/L4-Project-Record-Repo/issues/1)
 
+# Progress
+
+Basic Progress:
+
+* syntactic analysis(might refine): ![syntactic_analysis](https://progress-bar.dev/100/?title=done)
+* contextual analysis: ![contextual_analysis](https://progress-bar.dev/28/?title=WIP)
+* code generation: ![contextual_analysis](https://progress-bar.dev/0/)
+* status report
+* dissertation
+
+Project Extension Progress:
+
+* OO Pascal feature (highest priority)
+* command tool
+* docker & npm deployment
+* other possible extension?
+  * AST visualisation
+  * etc.
+
 # Weekly Meeting Report & Minutes
 
 Report files would be saved on both **hackmd** and **github** (in `weekly_reports` & `meeting_minutes`)
