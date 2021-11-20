@@ -120,6 +120,8 @@ time: 12:00 - 12:30
 
 * Might consider extend the fields of symbol table, enable us to connect record field with its memebers (another container/another scope)
 
+4. Reserved words shuld be put directly in the predefine() method - enough for now
+
 ## Before Next Meeting
 
 * Organize previous meeting minutes

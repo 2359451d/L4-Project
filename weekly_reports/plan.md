@@ -28,8 +28,8 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 11 [PROJECT WEEK]**
   * start working on status report
     * if still got things remain, continue work on the implementation
-* **Week 12 [PROJECT WEEK]** Status report submitted.
-  * Should almost finalise the status report before Friday 17:00
+* **Week 12-13 [PROJECT WEEK]** Status report submitted.
+  * Should almost finalise the status report before Friday 17:00 (end of week13 12/17?)
   * PSI exam - 12/09[09:00am]
 
 ## Winter break

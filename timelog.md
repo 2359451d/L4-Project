@@ -120,3 +120,14 @@
 ### 14 Nov 2021
 
 * *1 hour* Organise source code repo
+
+## Week 9
+
+### 15 Nov 2021
+
+* *0.5 hour* Hold the 7th meeting with the supervisor
+
+### 20 Nov 2021
+
+* *1 hour* Refine Symbol table & continue work on contextual analysis
+
