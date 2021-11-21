@@ -34,7 +34,7 @@ Reading Progress:
 * Introduction to Pascal, Second Edition: ![reading](https://progress-bar.dev/100/?title=done)
 * Programming Language Processors in Java: ![reading](https://progress-bar.dev/10/)
 * The Definitive ANTLR 4 Reference: ![reading](https://progress-bar.dev/100/?title=done)
-* JVM Specification: ![reading](https://progress-bar.dev/0/)
+* JVM Specification (JDK8): ![reading](https://progress-bar.dev/0/)
 * Understanding the JVM Advanced Features and Best Practies, Third Edition: ![reading](https://progress-bar.dev/0/)
 
 # Weekly Meeting Report & Minutes

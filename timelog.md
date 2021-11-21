@@ -132,3 +132,8 @@
 * *1 hour* Refine Symbol table & continue work on contextual analysis
 * *1 hour* Research about java compiler (static vairable space, how allocation works)
   * check whether this could somehow relate to Type Descriptor design (like is there any other information need to provide to the code generation stage). But seems there is no correlation for now...I suppose JVM would do the majority part of the vairable allocation...(variable size .etc)
+
+### 21 Nov 2021
+
+* *2 hours* Research more about symbol table things
+
