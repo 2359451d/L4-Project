@@ -14,18 +14,28 @@ Basic Progress:
 
 * syntactic analysis(might refine): ![syntactic_analysis](https://progress-bar.dev/100/?title=done)
 * contextual analysis: ![contextual_analysis](https://progress-bar.dev/28/?title=WIP)
-* code generation: ![contextual_analysis](https://progress-bar.dev/0/)
+* code generation: ![code_generation](https://progress-bar.dev/0/)
 * status report
 * dissertation
 
 Project Extension Progress:
 
 * OO Pascal feature (highest priority)
+* code optimisation
+  * intermediate code optimisation (seems some optimisation are handled to JVM)
 * command tool
 * docker & npm deployment
 * other possible extension?
   * AST visualisation
   * etc.
+
+Reading Progress:
+
+* Introduction to Pascal, Second Edition: ![reading](https://progress-bar.dev/100/?title=done)
+* Programming Language Processors in Java: ![reading](https://progress-bar.dev/10/)
+* The Definitive ANTLR 4 Reference: ![reading](https://progress-bar.dev/100/?title=done)
+* JVM Specification: ![reading](https://progress-bar.dev/0/)
+* Understanding the JVM Advanced Features and Best Practies, Third Edition: ![reading](https://progress-bar.dev/0/)
 
 # Weekly Meeting Report & Minutes
 
