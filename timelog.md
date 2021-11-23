@@ -135,5 +135,14 @@
 
 ### 21 Nov 2021
 
-* *2 hours* Research more about symbol table things
+* *3 hours* Research more about symbol table & design pattern things. Label Pascal grammar for usage (there exists some confusing alternatives)
 
+## Week 10
+
+### 22 Nov 2021
+
+* *0.5 hour* Hold the 8th meeting with supervisor
+
+### 23 Nov 2021
+
+* *0.5 hour* Research about Run-time lib of Pascal (How to conduct the contexual analysis when there are overloaded RTL defined, and the parameters are untyped implicitly)
