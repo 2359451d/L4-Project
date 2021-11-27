@@ -150,3 +150,8 @@
 ### 27 Nov 2021
 
 * *1 hour* Reorganise the project structure (it is not possible to build mixed-language project in IDEA, so about to process them seperately)
+* *1 hour* Research about RTL(no gain), might worth researching more about overload resolution & parametric polymorphism, also check how others implementing compilers (especially how they deal with RTL builtin functions & overloaded). Suppose gonna refer the existing compiler RTL docs reference and write a "RTL" (support for symbol table)
+* *0.5 hour* Same as above but organise again those blockers encountered in this stage, also some assumptions (at least try to make it work... mainly struggling about Func/Proc overloadded signatures [how to design a suitable type descriptor] & builtin Func/Proc [how exactly these defined in standard Pascal: overloaded signatures and arguments type restrictions...])
+
+### 28 Nov 2021
+
