@@ -146,3 +146,7 @@
 ### 23 Nov 2021
 
 * *0.5 hour* Research about Run-time lib of Pascal (How to conduct the contexual analysis when there are overloaded RTL defined, and the parameters are untyped implicitly)
+
+### 27 Nov 2021
+
+* *1 hour* Reorganise the project structure (it is not possible to build mixed-language project in IDEA, so about to process them seperately)
