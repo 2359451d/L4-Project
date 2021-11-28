@@ -155,3 +155,5 @@
 
 ### 28 Nov 2021
 
+* *0.5 hour* Research about the possible books which might help (more praticle examples, as currently blocked somehow in contextual analysis)
+* *1.5 hours* Quick Look into how others process RT builtin func/proc when conducting semantic analysis
