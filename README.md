@@ -38,13 +38,15 @@ repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler*
 
 ---
 
-* **Other Books** that might help (might not have enough time to go through)
+* **Other Books** that might help (might not have enough time to go through, in order of priority)
   * [Language Implementation Patterns](http://index-of.es/Programming/Pragmatic%20Programmers/Language%20Implementation%20Patterns.pdf)
     * 【Practical Examples】Build your own compiler/interpreter/translater, **same author of The Definitive ANTLR 4 Reference**
     * 31 genral design patterns
   * [Compilers: Principles, Techniques, and Tools](https://suif.stanford.edu/dragonbook/)
     * dragon book
     * http://www1.cs.columbia.edu/~sedwards/classes/2006/w4115-fall/dragonbook-language.pdf
+  * [Engineering a Compiler, 2nd Edition](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
+    * comprehensive concepts of how compiler is constructed. Emphasize on **code optimisation & code generation**
   * [Modern Compiler Implementation in Java](https://www.cs.princeton.edu/~appel/modern/java/)
     * tiger book (javaCC for frontend)
     * related-project
@@ -53,8 +55,6 @@ repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler*
     * simplification version of the tiger book
     * how to implement cb(subset of C) compiler in java (generator: **javaCC**), [source code here](https://github.com/aamine/cbc)
     * also covers assembler, **linker**, Run-time env of Linux
-  * [Engineering a Compiler, 2nd Edition](http://www.r-5.org/files/books/computers/compilers/writing/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf)
-    * comprehensive concepts of how compiler is constructed. Emphasize on **code optimisation & code generation**
 
 # Weekly Meeting Report & Minutes
 

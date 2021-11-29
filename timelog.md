@@ -157,3 +157,5 @@
 
 * *0.5 hour* Research about the possible books which might help (more praticle examples, as currently blocked somehow in contextual analysis)
 * *1.5 hours* Quick Look into how others process RT builtin func/proc when conducting semantic analysis
+* *0.5 hour* Explore the design patterns for RTL (JVMClass should be a good reference, but would choose the straightforward implementation for now as still in experiment stage) 
+* *4.5 hours* Contexual analysis coding
