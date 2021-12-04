@@ -159,3 +159,13 @@
 * *1.5 hours* Quick Look into how others process RT builtin func/proc when conducting semantic analysis
 * *0.5 hour* Explore the design patterns for RTL (JVMClass should be a good reference, but would choose the straightforward implementation for now as still in experiment stage) 
 * *4.5 hours* Contexual analysis coding
+
+## Week 11
+
+### 29 Nov 2021
+
+* *0.5 hour* Hold the 9th meeting with supervisor
+
+### 4 Dec 2021
+
+* *4 hours* Contexual Analysis Coding
