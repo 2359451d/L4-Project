@@ -168,4 +168,4 @@
 
 ### 4 Dec 2021
 
-* *4 hours* Contexual Analysis Coding
+* *6 hours* Contexual Analysis Coding
