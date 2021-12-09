@@ -169,3 +169,17 @@
 ### 4 Dec 2021
 
 * *6 hours* Contexual Analysis Coding
+
+### 5 Dec 2021
+
+* *6 hours* Contexual Analysis Coding
+
+## Week 12
+
+### 6 Dec 2021
+
+* *0.5 hour* Hold the 10th meeting with supervisor
+
+### 9 Dec 2021
+
+* *1 hour* Contexual Analysis Coding
