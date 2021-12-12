@@ -187,3 +187,7 @@
 ### 11 Dec 2021
 
 * *1.5 hours* Contexual Analysis Coding
+
+### 12 Dec 2021
+
+* *2 hours* Contexual Analysis Coding
