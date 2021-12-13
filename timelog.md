@@ -190,4 +190,4 @@
 
 ### 12 Dec 2021
 
-* *2 hours* Contexual Analysis Coding
+* *4.5 hours* Contexual Analysis Coding & Writing simple TestCase (not sure testing in this form is necessary for this project or not, but just tried :) )
