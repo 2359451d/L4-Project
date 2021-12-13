@@ -191,3 +191,10 @@
 ### 12 Dec 2021
 
 * *4.5 hours* Contexual Analysis Coding & Writing simple TestCase (not sure testing in this form is necessary for this project or not, but just tried :) )
+
+## Week 13
+
+### 13 Dec 2021
+
+* *3 hours* Writing Testing Case & Rules & Fixed Driver (where the token recognition errors won't be recorded before, due to `notifyListeners()` of original implementation `Lexer`)
+
