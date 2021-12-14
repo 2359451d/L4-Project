@@ -56,7 +56,7 @@
 
 ### 11 Oct 2021
 
-* *0.5 hour* Hold the 2nd meeting with the supervisor
+* *0.5 hour* Hold the 2nd meeting with supervisor
 * *0.5 hour* Organise the 2nd meeting minutes
 
 ### 16 Oct 2021
@@ -71,7 +71,7 @@
 
 ### 18 Oct 2021
 
-* *0.5 hour* Hold the 3rd meeting with the supervisor
+* *0.5 hour* Hold the 3rd meeting with supervisor
 
 ### 24 Oct 2021
 
@@ -82,7 +82,7 @@
 ### 25 Oct 2021
 
 * *0.5 hour* Organise the 3rd meeting minutes
-* *0.5 hour* Hold the 4th meeting with the supervisor
+* *0.5 hour* Hold the 4th meeting with supervisor
 
 ### 31 Oct 2021
 
@@ -92,7 +92,7 @@
 
 ### 25 Oct 2021
 
-* *0.5 hour* Hold the 5th meeting with the supervisor
+* *0.5 hour* Hold the 5th meeting with supervisor
 
 ### 6 Nov 2021
 
@@ -107,7 +107,7 @@
 
 ### 8 Nov 2021
 
-* *0.5 hour* Hold the 6th meeting with the supervisor
+* *0.5 hour* Hold the 6th meeting with supervisor
 
 ### 13 Nov 2021
 
@@ -125,7 +125,7 @@
 
 ### 15 Nov 2021
 
-* *0.5 hour* Hold the 7th meeting with the supervisor
+* *0.5 hour* Hold the 7th meeting with supervisor
 
 ### 20 Nov 2021
 
@@ -197,4 +197,8 @@
 ### 13 Dec 2021
 
 * *3 hours* Writing Testing Case & Rules & Fixed Driver (where the token recognition errors won't be recorded before, due to `notifyListeners()` of original implementation `Lexer`)
+* *0.5 hour* Hold the 11th meeting with supervisor
 
+### 14 Dec 2021
+
+* *4 hours* Contexual Analysis Coding

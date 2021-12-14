@@ -78,6 +78,8 @@ weekly meeting report might cover the following sections:
 * [week 7 - 5th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/H1Hyk8pUF)
 * [week 8 - 6th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/HJG1Hu8wK)
 * [week 9 - 7th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/r1uP6U6PF)
+* 10-11 TBC
+* [week 13 - 11th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/HJ9noc4ct)
 
 quick access to related level 4 project repos (**only setup for this repo as it is hard to coordinate while the automation submodule updating script not working**, soft links might be removed if too cumbersome)
 
