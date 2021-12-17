@@ -211,3 +211,7 @@
 
 * *1.5 hours* Desgin patterns
 * *2.5 hours* Research about Testing & other concepts
+
+### 17 Dec 2021
+
+* *3 hours* Finalise status report
