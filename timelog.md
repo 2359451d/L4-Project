@@ -202,3 +202,12 @@
 ### 14 Dec 2021
 
 * *4 hours* Contexual Analysis Coding
+
+### 15 Dec 2021
+
+* *1 hour* Contexual Analysis Coding
+
+### 16 Dec 2021
+
+* *1.5 hours* Desgin patterns
+* *2.5 hours* Research about Testing & other concepts
