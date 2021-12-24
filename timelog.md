@@ -215,3 +215,17 @@
 ### 17 Dec 2021
 
 * *3 hours* Finalise status report
+
+### 19 Dec 2021
+
+* *2 hours* Refactor driver based on Builder Pattern
+
+## Week 14 (Winter Break)
+
+### 20 Dec 2021
+
+* *3 hours* Write test cases & Go thorugh Junit5 tutorials
+
+### 23 Dec 2021
+
+* *4 hours* Fixed cicd pipeline, finalise basic parameterized test cases for testing 'parse' (where able to test a batch of source files)

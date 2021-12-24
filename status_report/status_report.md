@@ -41,20 +41,7 @@ A further extension might be a command-line tool that encapsulates the entire pr
 ## Progress
 
 * Syntactic Analysis implemented using the automatic generating tool: Antlr(4.9.1). Both runtime lib, docker image, scripts are ready for regenerating lexer & parser if any
-* Partial contextual analysis implemented for constructs covered:
-  * data types
-    * simple types: integer, real, char, boolean
-  * declarations
-    * variable declarations
-    * procedure declarations
-  * statements
-    * assignment statements
-    * repetitive statements
-      * while
-      * for
-      * repeat...until
-    * if statements
-    * procedure statement
+* Partial contextual analysis implemented for constructs covered: simple types (integer, real, char, boolean), vairable & procedure declarations, assignement & repetitive & if & procedure statements
 * Set up test cases for syntactic analysis driver using Junit
 * Set up Github Action CI/CD workflow only for building and deploying the Docker image where Antlr is ready to use with an alias (it still requires refined scripts to work).
 
@@ -64,7 +51,6 @@ A further extension might be a command-line tool that encapsulates the entire pr
 Some definitions of specific constructs are vague. It may not mention some concepts explicitly in the standard Pascal convention (ISO 7185). Online resources are confusing and do not mention whether a specific behavior is standard. Some constructs might not behave as expected by Standard Pascal due to referring to the documentation in a potentially problematic way.
 
 ### Risks
-
 
 As mentioned above, the current implementation has referred to various documentation of Pascal dialects (where one might not know whether the feature is truly standard) and standard one. **Mitigation:** would mainly focus on ISO 7185, avoiding introducing subjective understanding.
 
@@ -77,47 +63,17 @@ Also, it seems impossible to assess the "true concept" of **portability** withou
 
 ## Winter semester
 
-* **Week 1-3**: Setup GitHub repo and meeting pattern & Work on Syntactic Analysis
-* **Week 4-6**
-  * looking in the books
-    * *programming language processors in java* and
-    * *introduction to Pascal*
-  * research about other concepts if discovered along the way
-* **Week 7-8**
-  * contextual analysis
-  * **week 7** - might mainly focus on research things
-    * if still got time, might do the implementation
-  * **week 8** - implementation
-    * if got time, move to the code generation
-* **Week 9-10**
-  * continue contextual analysis, objectives: implements the simple constructs first
-    * Type Descriptor Design (primitives, array, records, etc.)
-    * Then move to the custom visitor implementation (simple constructs first)
-    * Contextual Analysis Driver
-* **Week 11 [PROJECT WEEK]**
-  * would start working on the status report
-    * if still got things to remain (contextual analysis), continue work on the implementation
-  * if still got time, would start research **code generation & JVM & class files** (would focus on research first, but not very confident about the code generation implementation)
-* **Week 12-13 [PROJECT WEEK]**: Status report submitted.
-  * Try to finalize **Contextual Analysis**
-  * Would have full-time work on the project in week 13, so if able to finish the contextual analysis of the remaining constructs, would start researching about **code generation**
-  * Should almost finalize the **status report** before Friday 17:00 (end of week13 12/17)
+* **Week 1-6**: Setup GitHub repo and meeting pattern & Work on Syntactic Analysis
+  * basic syntactic analysis was finished
+* **Week 7-13**
+  * partial contextual analysis was finished, but still got several constructs to be implemeted
 
-### Winter break
+## Winter break
 
 * Finalise the contextual analysis for minimum constructs
-* Start working on code generation implementation and researching
-  * JVM things (mainly class files)
-  * possible books for reference:
-    * JVM Specification (JDK11)
-    * Understanding the JVM Advanced Features and Best Practices, Third Edition
-* Figure out a uniform way to write test cases (if it takes too much time, I will leave it for now)
-  * If Junit is enough, would use it
-  * Should also consider how to integrate the validation testing using existing test suites with regression testing
-  * and how to make it automated (providing scripts, setup CI/CD, etc.)
-* Extend the project if code generation finished
-  * focus on implementing **other Pascal features** (OO feature etc.)
-    * Should consider which Pascal dialect to choose (**better a well-documented one, otherwise would confuse**).
-  * might like to research about the **intermediate code optimization**
-  * if got time, I might research more about making a **command-line tool** for usage.
-* For dissertation preparation, should learn how to use bib and reference management. Otherwise, it seems would be problematic
+* Start working on code generation implementation and researching JVM things (mainly class files)
+* Figure out a uniform way to write test cases (if it takes too much time, I will leave it for now) and how to make it automated (providing scripts, setup CI/CD, etc.)
+  * If Junit is enough, would use it. Should also consider how to integrate the validation testing using existing test suites with regression testing
+* Extend the project if code generation finished focus on implementing **other Pascal features** (OO feature etc.)
+* if still got time, I might research more about making a **command-line tool** for usage.
+* For dissertation preparation, should learn how to use bib and reference management. Otherwise, it seems problematic
