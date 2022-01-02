@@ -229,3 +229,15 @@
 ### 23 Dec 2021
 
 * *4 hours* Fixed cicd pipeline, finalise basic parameterized test cases for testing 'parse' (where able to test a batch of source files)
+
+## Week 15 (Winter Break)
+
+### 29 Dec 2021
+
+* *4 hours* Contextual analysis coding
+
+### 30 Dec 2021
+
+* *0.5 hour* Error type refactored, to make it more detailed and seperated from Type class
+
+
