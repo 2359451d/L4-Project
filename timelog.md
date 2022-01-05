@@ -240,4 +240,14 @@
 
 * *0.5 hour* Error type refactored, to make it more detailed and seperated from Type class
 
+### 2 Jan 2021
 
+* *3 hours* Contextual analysis coding & Refactor & Debug
+
+### 3 Jan 2021
+
+* *3 hours* Contextual analysis of the Enumerated types implementation refined
+
+### 4 Jan 2021
+
+* *4 hours* Subrange types implementation & basic operators checking refined for subrange & enumerated types (seperate compile time checking from the runtime checking)
