@@ -244,6 +244,8 @@
 
 * *3 hours* Contextual analysis coding & Refactor & Debug
 
+## Week 16 (Winter Break)
+
 ### 3 Jan 2021
 
 * *3 hours* Contextual analysis of the Enumerated types implementation refined
@@ -251,3 +253,6 @@
 ### 4 Jan 2021
 
 * *4 hours* Subrange types implementation & basic operators checking refined for subrange & enumerated types (seperate compile time checking from the runtime checking)
+
+## Week 17 (2nd Semester Begins)
+
