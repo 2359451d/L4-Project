@@ -259,3 +259,19 @@
 ### 11 Jan 2022
 
 * *5 hours* array types coding & debug , issue #17
+
+### 13 Jan 2022
+
+* *7 hours* Debug & Type Classes Refactor, issue #75
+
+### 14-15 Jan 2022
+
+* *5 hours* issues #81, #85
+
+### 16 Jan 2022
+
+* *5 hours* procedure/function mutual recursion coding, bug fixed. Start record type implementation
+
+## Week 18
+
+### 17 Jan 2022
