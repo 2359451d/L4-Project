@@ -275,3 +275,5 @@
 ## Week 18
 
 ### 17 Jan 2022
+
+* *3 hours* Setup zotero, better bibtex plugins
