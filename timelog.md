@@ -254,7 +254,7 @@
 
 * *4 hours* Subrange types implementation & basic operators checking refined for subrange & enumerated types (seperate compile time checking from the runtime checking)
 
-## Week 17 (2nd Semester Begins)
+## Week 17/1 (2nd Semester Begins)
 
 ### 11 Jan 2022
 
@@ -272,8 +272,16 @@
 
 * *5 hours* procedure/function mutual recursion coding, bug fixed. Start record type implementation
 
-## Week 18
+## Week 18/2
 
 ### 17 Jan 2022
 
 * *3 hours* Setup zotero, better bibtex plugins
+
+### 22 Jan 2022
+
+* *5.5 hours* Record type coding (packed record, variants left. some assignment correctness need to wait packed array to be finished), bug fixed (arrays indexing & record fielding operations in mess) issues: #92 #16
+
+## Week 19/3
+
+### 24 Jan 2022
