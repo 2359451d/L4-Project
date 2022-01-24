@@ -5,7 +5,7 @@ repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler*
 * `timelog.md`
   * daily(at least) updated progress record
 
-# Progress
+<!-- # Progress
 
 ## Basic Progress (**frontend of compiler**)
 
@@ -51,7 +51,7 @@ repo for docs & recording progress on level 4 project (**Pascal to JVM Compiler*
   * [ふつうのコンパイラをつくろう](https://github.com/aisuhua/Books-2/blob/master/%E8%87%AA%E5%88%B6%E7%BC%96%E8%AF%91%E5%99%A8%20%2C%E9%9D%92%E6%9C%A8%E5%B3%B0%E9%83%8E%E8%91%97%20%2CP445.pdf)
     * simplification version of the tiger book
     * how to implement cb(subset of C) compiler in java (generator: **javaCC**), [source code here](https://github.com/aamine/cbc)
-    * also covers assembler, **linker**, Run-time env of Linux
+    * also covers assembler, **linker**, Run-time env of Linux -->
 
 # Weekly Meeting Report & Minutes
 
@@ -77,6 +77,7 @@ weekly meeting report might cover the following sections:
 * [week 9 - 7th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/r1uP6U6PF)
 * 10-11 TBC
 * [week 13 - 11th meeting](https://hackmd.io/@ztSWeeCGQVajqeMX2KsIXw/HJ9noc4ct)
+* [week 19/3 - 12th meeting](https://hackmd.io/y9H6X6HjT0agqa4dkxR-tQ)
 
 quick access to related level 4 project repos (**only setup for this repo as it is hard to coordinate while the automation submodule updating script not working**, soft links might be removed if too cumbersome)
 

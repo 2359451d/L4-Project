@@ -282,6 +282,12 @@
 
 * *5.5 hours* Record type coding (packed record, variants left. some assignment correctness need to wait packed array to be finished), bug fixed (arrays indexing & record fielding operations in mess) issues: #92 #16
 
+### 23 Jan 2022
+
+* *3 hours* Packed array types, and string type coding (check for the packed array may not suitable for passing as the parameter would be left for now, as it mentioned in book but not ISO7185)
+
 ## Week 19/3
 
 ### 24 Jan 2022
+
+* *0.5 hours* Hold the 12th meeting with supervisor
