@@ -254,7 +254,7 @@
 
 * *4 hours* Subrange types implementation & basic operators checking refined for subrange & enumerated types (seperate compile time checking from the runtime checking)
 
-## Week 17/1 (2nd Semester Begins)
+## Week 13/1 (2nd Semester Begins)
 
 ### 11 Jan 2022
 
@@ -272,7 +272,7 @@
 
 * *5 hours* procedure/function mutual recursion coding, bug fixed. Start record type implementation
 
-## Week 18/2
+## Week 14/2
 
 ### 17 Jan 2022
 
@@ -286,8 +286,47 @@
 
 * *3 hours* Packed array types, and string type coding (check for the packed array may not suitable for passing as the parameter would be left for now, as it mentioned in book but not ISO7185)
 
-## Week 19/3
+## Week 15/3
 
 ### 24 Jan 2022
 
 * *0.5 hours* Hold the 12th meeting with supervisor
+* *0.5 hours* Organise meeting minutes
+
+### 30 Jan 2022
+
+* *2 hours* Reading JVM specification & videos
+* *9 hours* Pointer type coding & setup basic template code for runtime procedures/functions
+* *2 hours* Experiment with HelloWorld bytecode
+
+## Week 16/4
+
+### 31 Jan 2022
+
+* *0.5 hours* Hold the 13th meeting with supervisor
+
+### 5 Feb 2022
+
+* *7 hours* Reading JVM
+
+## Week 17/5
+
+### 6 Feb 2022
+
+* *10 hours* Code generation - Basic Expression, Variable declaration, readln/read procedures
+
+### 7 Feb 2022
+
+* *0.5 hours* Hold the 14th meeting with supervisor
+
+## Week 18/6
+
+### 12-13 Feb 2022
+
+* *27.5 hours* Code generation coding (expression for simple types partially done) & class refactored & classes abstraction refined
+
+### 14 Feb 2022
+
+* *0.5 hours* Hold the 14th meeting with supervisor
+
+

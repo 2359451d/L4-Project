@@ -41,15 +41,26 @@ Week-by-week plan for the whole project. Update this as you go along.
 
 ## Spring Semester
 
-* **Week 13**
-* **Week 14**
-* **Week 15**
-* **Week 16**
-* **Week 17**
-* **Week 19**
-* **Week 20**
-* **Week 21**
-* **Week 22**
-* **Week 23 [TERM ENDS]**
-* **Week 24** Dissertation submission deadline and presentations.
-
+* **Week 13/1**
+* **Week 14/2**
+* **Week 15/3**
+* **Week 16/4 (31/01-06/02)**
+  * Finish JVM-related reading
+  * Split contextual analysis test suites into small unit (where each case only throws one error or no errors)
+  * Experiment code generation with more components (starts from simple one first)
+    * **Assumed challenges**: type definition, records, referenced-types(arrays, pointers), nested procedures/functions
+* **Week 17/5 (07/02-13/02) - 18/6 (14/02-20/02)**
+  * Continue code generation coding
+* **Week 19/7 (21/02-27/02) - Week 20/8 (28/02-06/03)**
+  * Continue code generation coding if not finished
+  * Conduct evaluation, priority:
+    * passed test number
+    * compile time
+    * execution time
+    * memory leaks detection (need to figure out a way to gather heap tracking log when running pascal programs using existing compilers)
+    * test coverage (result would somehow involve unrelated classes, so left with low priority)
+* **Week 21/9 (07/03-13/03) - 22/10 (14/03-20/03)**
+  * Write dissertation and polishing. Expectedly sent draft two weeks before the deadline
+* **Week 23/11 (21/03-27/03)** Dissertation submission deadline and presentations.
+  * **Deadline date**: 25/03
+  * Write dissertation and polishing. Presentation video.
