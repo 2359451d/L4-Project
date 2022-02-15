@@ -328,5 +328,6 @@
 ### 14 Feb 2022
 
 * *0.5 hours* Hold the 14th meeting with supervisor
-
-
+* *1.5 hours* Debugging refactored local variable table
+* *2.5 hours* Research about invokeDynamic
+* *1 hour* Reorganize dissertation structure
