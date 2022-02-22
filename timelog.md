@@ -331,3 +331,25 @@
 * *1.5 hours* Debugging refactored local variable table
 * *2.5 hours* Research about invokeDynamic
 * *1 hour* Reorganize dissertation structure
+
+### 19 Feb 2022
+
+* *2 hours* Debug and refactor write/writeln(), now it works with invokeDynamic (but the arugments provided is not the optimal)
+* *3 hours* Debug Procedure declaration & Proc var decl
+
+### 20 Feb 2022
+
+* *5.5 hours* Debug Function Decl, Call and other part refactored
+
+## Week 19/7
+
+### 21 Feb 2022
+
+* *5.5 hours* Read proc & Relational operators finished, works for all simple types
+* *1.5 hours* If statement
+
+### 22 Feb 2022
+
+* *2.5 hours* polish if statement & start while statement
+* *1 hour* for statement
+* *0.5 hours* Hold the 15th meeting with supervisor
