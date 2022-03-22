@@ -353,3 +353,83 @@
 * *2.5 hours* polish if statement & start while statement
 * *1 hour* for statement
 * *0.5 hours* Hold the 15th meeting with supervisor
+
+### 26 Feb 2022
+
+* *1 hour* Bug fixed - #124
+
+### 27 Feb 2022
+
+* *3.5 hours* Fixed
+  * Slot Number calculation bug.
+  * Write, which also can print the value from a Function. 
+  * Non-arg Procedure/Function bug, when called these subprograms with only Id, some of the context would be recognized as Variable Context (no way to change with generated AST, so need to call manually).
+* *3.5 hours* Basic Code generation of Function/Procedure Reference Forwarding. Also, fixed errors in semantic analysis
+* *1 hour* Code generation of repeat-statement
+
+## Week 20/8
+
+### 28 Feb 2022
+
+* *0.5 hour* Hold the 16th meeting with supervisor
+
+### 6 March 2022
+
+* *4 hours*
+  * Integrate with logging frameworks, (for maintaining, separating debug and other information) & code refactor, clean up
+  * Setup semantic analysis regression test suite skeleton.
+    * Still need work to separate contextual analysis test cases into smaller units
+
+## Week 21/9
+
+### 7 March 2022
+
+* *0.5 hour* Hold the 17th meeting with supervisor
+
+### 11 March 2022
+
+* *3 hours* Code clean up & driver refactor
+
+### 12 March 2022
+
+* *4 hours* Research about compiler validation
+
+### 13 March 2022
+
+* *3 hours* Research about compiler validation
+* *4 hours* Draft dissertation
+
+## Week 22/10
+
+### 14 March 2022
+
+* *0.5 hour* Hold the 18th meeting with supervisor
+
+### 15 March 2022
+
+* *2 hours* Test case reduction, and reduction utils coding
+
+### 18 March 2022
+
+* *3 hours* Fixed CICD and docker scripts updated
+
+### 19 March 2022
+
+* *1 hour* Background research
+* *3 hours* Fixed testing utilities & checker visitor bugs, continue test cases reduction
+* *5 hours* Set up candidate compilers, continue test cases reduction
+* *3 hours* Scripts coding, preparing for comparing the output between different compilers when running the test suite later on
+
+### 20 March 2022
+
+* *10 hours* Scripts coding (preprocessing & suppress compiler error outputs, in order to compare the difference later)
+
+## Week 23/11
+
+### 21 March 2022
+
+* *1.5 hours* Scripts bug fixed, test cases refined (as some vague bugs reported by Pascal-p5, e.g. invalid variable identifiers declared)
+* *3 hours* Redrafting Analysis part
+* *0.5 hour* Hold the 19th meeting with supervisor
+* *2 hours* Coding about Regression Test Results redirect to log file 
+* *3 hours* Checker Debugging, Continue Test Case Reduction
