@@ -433,3 +433,38 @@
 * *0.5 hour* Hold the 19th meeting with supervisor
 * *2 hours* Coding about Regression Test Results redirect to log file 
 * *3 hours* Checker Debugging, Continue Test Case Reduction
+
+### 22 March 2022
+
+* *3 hours* Checker Debugging, Continue test case reduction, set up runtime function base classes
+* *5 hours* Finished basic test case reduction, would stop now
+
+### 23 March 2022
+
+* *7 hours* Draft plan, refine general problems
+* *2 hours* Literature Review
+
+### 24 March 2022
+
+* *7 hours* Literature Review
+* *1.5 hours* Introduction
+
+## Week 24/12
+
+### 28 March 2022
+
+* *1 hour* Hold the 20th meeting with supervisor
+* *10 hours* Design and Implementation writing
+
+### 29 March 2022
+
+* *10 hours* Design and Implementation writing
+
+### 30 March 2022
+
+* *4 hours* other parts writing filled
+* *10 hours* evaluation coding and writing
+
+### 31 March 2022
+
+* *10 hours* evaluation and conclusion writing
